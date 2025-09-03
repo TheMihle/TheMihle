@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,py,git,github,bash,powershell,linux,spring,maven,mysql,pycharm,idea,matlab&perline=9))](https://skillicons.dev)
 
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dotnet,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dotnet,cs,androidstudio)](https://skillicons.dev)
 
 ## Currently studying at Oslo Metropolitan University (OsloMet)
 ### TA (Teaching assistant) experience at OsloMet
