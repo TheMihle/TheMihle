@@ -1,10 +1,10 @@
 # Welcome to Mihle Profile 👋
 
 ### Languages/tools I have used
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,py,git,github,bash,powershell,linux,spring,maven,mysql,pycharm,idea,matlab&perline=9))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,js,html,css,bootstrap,py,git,github,docker,bash,powershell,linux,spring,maven,gradle,dotnet,mysql,postgres,sqlite,pycharm,idea,androidstudio,matlab&perline=9))](https://skillicons.dev)
 
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dotnet,cs,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,postgres)](https://skillicons.dev)
 
 ## Currently studying at Oslo Metropolitan University (OsloMet)
 ### TA (Teaching assistant) experience at OsloMet
@@ -12,6 +12,8 @@
 * [DATS2300 Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2025/H%C3%98ST)
 
 ### Subjects:
+* [DATA3900 Bachelor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2025/H%C3%98ST)
+* [DAVE3606 Resource-efficient programs](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3606/2025/H%C3%98ST)
 * [ITPE3200 Web Application](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3200/2025/H%C3%98ST)
 * [DAVE3600 App Development](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3600/2025/H%C3%98ST)
 * [ITPE3100 Computer Security](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3100/2025/H%C3%98ST)
@@ -38,6 +40,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
