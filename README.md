@@ -7,11 +7,16 @@
 [To be updated]
 
 ## Currently studying at University in Oslo (UiO) 
+### Courses at UiO:
+* [IN4120 Search Technology](https://www.uio.no/studier/emner/matnat/ifi/IN4120/index-eng.html)
+* [IN5170 Models of Concurrency](https://www.uio.no/studier/emner/matnat/ifi/IN5170/index-eng.html)
+* [IN5020 Distributed Systems](https://www.uio.no/studier/emner/matnat/ifi/IN5020/index-eng.html)
+
 ### TA (Teaching assistant) experience at OsloMet
 * [DATA1700 Web Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1700/2024/H%C3%98ST)
 * [DATS2300 Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2025/H%C3%98ST)
 
-### Subjects in my Bachelor degree in Software Engineering @ OsloMet:
+### Courses in my Bachelor degree in Software Engineering @ OsloMet:
 * [DATA3900 Bachelor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2025/H%C3%98ST)
 * [DAVE3606 Resource-efficient programs](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3606/2025/H%C3%98ST)
 * [ITPE3200 Web Application](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3200/2025/H%C3%98ST)
