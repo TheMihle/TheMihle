@@ -1,17 +1,17 @@
 # Welcome to Mihle Profile 👋
 
 ### Languages/tools I have used
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,js,html,css,bootstrap,py,git,github,docker,bash,powershell,linux,spring,maven,gradle,dotnet,mysql,postgres,sqlite,pycharm,idea,androidstudio,matlab&perline=9))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,js,html,css,bootstrap,py,git,github,docker,bash,powershell,linux,spring,maven,gradle,dotnet,azure,mysql,postgres,sqlite,pycharm,idea,androidstudio,matlab&perline=9))](https://skillicons.dev)
 
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,postgres)](https://skillicons.dev)
+[To be updated]
 
-## Currently studying at Oslo Metropolitan University (OsloMet)
+## Currently studying at University in Oslo (UiO) 
 ### TA (Teaching assistant) experience at OsloMet
 * [DATA1700 Web Programming](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1700/2024/H%C3%98ST)
 * [DATS2300 Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2025/H%C3%98ST)
 
-### Subjects:
+### Subjects in my Bachelor degree in Software Engineering @ OsloMet:
 * [DATA3900 Bachelor Thesis](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2025/H%C3%98ST)
 * [DAVE3606 Resource-efficient programs](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3606/2025/H%C3%98ST)
 * [ITPE3200 Web Application](https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3200/2025/H%C3%98ST)
